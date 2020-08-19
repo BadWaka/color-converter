@@ -1,0 +1,24 @@
+{
+  "name": "color-converter",
+  "version": "1.0.0",
+  "description": "颜色转换器",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node tests/test.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BadWaka/color-converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BadWaka/color-converter/issues"
+  },
+  "homepage": "https://github.com/BadWaka/color-converter#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
